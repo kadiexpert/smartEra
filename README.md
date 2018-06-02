@@ -1,1 +1,1 @@
-# smartEra
+# SmartEra
